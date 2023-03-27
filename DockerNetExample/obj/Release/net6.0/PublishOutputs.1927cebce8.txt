@@ -1,0 +1,11 @@
+C:\github\DotNetCoreDB2\published\DockerNetExample.exe
+C:\github\DotNetCoreDB2\published\appsettings.Development.json
+C:\github\DotNetCoreDB2\published\appsettings.json
+C:\github\DotNetCoreDB2\published\DockerNetExample.dll
+C:\github\DotNetCoreDB2\published\DockerNetExample.deps.json
+C:\github\DotNetCoreDB2\published\DockerNetExample.runtimeconfig.json
+C:\github\DotNetCoreDB2\published\DockerNetExample.pdb
+C:\github\DotNetCoreDB2\published\Microsoft.OpenApi.dll
+C:\github\DotNetCoreDB2\published\Swashbuckle.AspNetCore.Swagger.dll
+C:\github\DotNetCoreDB2\published\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\github\DotNetCoreDB2\published\Swashbuckle.AspNetCore.SwaggerUI.dll

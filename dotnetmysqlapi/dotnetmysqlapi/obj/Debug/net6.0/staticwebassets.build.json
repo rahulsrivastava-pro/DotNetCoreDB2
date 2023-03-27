@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kdt/08AdjRQYhEi411EICabdsu9u3Eh/ghcHwCl27Ug=",
+  "Source": "dotnetmysqlapi",
+  "BasePath": "_content/dotnetmysqlapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

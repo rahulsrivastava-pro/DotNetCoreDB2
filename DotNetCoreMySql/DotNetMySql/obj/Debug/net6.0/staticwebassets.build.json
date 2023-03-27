@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5fUr/ltRyGqTNCecqKWfnONwKtdyW6tO9QLE0+uGKZY=",
+  "Source": "DotNetMySql",
+  "BasePath": "_content/DotNetMySql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
