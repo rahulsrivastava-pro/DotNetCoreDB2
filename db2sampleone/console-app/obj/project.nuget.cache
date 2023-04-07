@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S0xxN0omSn0GzvTUeHtjGF1mlrXp9o34m8BDyslGeNh061qQWo21NKRjLfiq+HodhOksWwXnEDUuTsOfB6lOlw==",
+  "success": true,
+  "projectFilePath": "C:\\github\\DotNetCoreDB2\\db2sampleone\\console-app\\console-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahul\\.nuget\\packages\\ibm.data.db2.core\\3.1.0.600\\ibm.data.db2.core.3.1.0.600.nupkg.sha512",
+    "C:\\Users\\rahul\\.nuget\\packages\\net.ibm.data.db2\\6.0.0.300\\net.ibm.data.db2.6.0.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

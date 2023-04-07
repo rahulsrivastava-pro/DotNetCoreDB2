@@ -1,0 +1,5 @@
+C:\github\DotNetCoreDB2\db2sampleone\console-app\obj\x64\Debug\netcoreapp2.1\console-app.csproj.AssemblyReference.cache
+C:\github\DotNetCoreDB2\db2sampleone\console-app\obj\x64\Debug\netcoreapp2.1\console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\DotNetCoreDB2\db2sampleone\console-app\obj\x64\Debug\netcoreapp2.1\console-app.AssemblyInfoInputs.cache
+C:\github\DotNetCoreDB2\db2sampleone\console-app\obj\x64\Debug\netcoreapp2.1\console-app.AssemblyInfo.cs
+C:\github\DotNetCoreDB2\db2sampleone\console-app\obj\x64\Debug\netcoreapp2.1\console-app.csproj.CoreCompileInputs.cache
